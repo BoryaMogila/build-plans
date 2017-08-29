@@ -1,0 +1,7 @@
+node_modules
+*.gz
+*.log
+/.project
+/npm-debug.log
+/package-lock.json
+.idea/
